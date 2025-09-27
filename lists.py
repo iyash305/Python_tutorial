@@ -13,3 +13,6 @@ cars.sort()
 print(cars)
 friends.pop()
 print(friends)
+
+str = "Welcome to Python"
+print(str.split())
